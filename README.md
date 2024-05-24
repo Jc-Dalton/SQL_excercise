@@ -1,6 +1,8 @@
 # SQL_excercise </br>
 
-## Building a MySQL database from scratch and answering some of the given question</br></br>
+## Build a MySQL database from scratch and complete the task below 
+
+</br></br>
 
 
 ### Tasks:
