@@ -1,7 +1,6 @@
-# SQL_excercise
-## Building a MySQL database from scratch and answering some of the given question
+# SQL_excercise </br>
 
-
+## Building a MySQL database from scratch and answering some of the given question</br></br>
 
 
 ### Tasks:
@@ -10,7 +9,7 @@ Create the sales, clients, products, categories, and manufacturers tables with a
 Insert sample data into all five tables (3 categories, 3 manufacturers, 10 products, 4 clients, 30 sales) - you may randomize the prices/amounts, names, locations. dates should all be within 2023. Please make sure to avoid rerunning INSERT statements so your rows won't duplicate.
 
 
-
+</br></br>
 
 ### Retrieve the following information:
 
@@ -25,7 +24,7 @@ List the total sales amount for each category (so this means group the sales by 
 List the total sales amount for each manufacturer (so this means group the sales by manufacturer).
 
 
-
+</br></br></br>
 
 ### Guide to make your own MySQL Database
 
