@@ -15,15 +15,15 @@ Insert sample data into all five tables (3 categories, 3 manufacturers, 10 produ
 
 ### Retrieve the following information:
 
-List all sales along with the client's name, email, and location.
-List sales made after a specific date - march 2023.
-Calculate the total amount spent by each client (group by clients if they have multiple purchases under “sales” table).
-Calculate the total number of products for each category
-List sales sorted by sale date in descending order.
-List products along with their category and manufacturer information.
-List clients who have purchased products from a specific category (you may use one category only).
-List the total sales amount for each category (so this means group the sales by category).
-List the total sales amount for each manufacturer (so this means group the sales by manufacturer).
+List all sales along with the client's name, email, and location.</br>
+List sales made after a specific date - march 2023.</br>
+Calculate the total amount spent by each client (group by clients if they have multiple purchases under “sales” table).</br>
+Calculate the total number of products for each category</br>
+List sales sorted by sale date in descending order.</br>
+List products along with their category and manufacturer information.</br>
+List clients who have purchased products from a specific category (you may use one category only).</br>
+List the total sales amount for each category (so this means group the sales by category).</br>
+List the total sales amount for each manufacturer (so this means group the sales by manufacturer).</br>
 
 
 </br></br></br>
